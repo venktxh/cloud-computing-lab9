@@ -1,0 +1,4 @@
+{
+  "service": "hello-fn",
+  "image": "venkey136/hello-fn:latest"
+}
